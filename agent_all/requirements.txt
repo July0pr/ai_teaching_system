@@ -1,0 +1,13 @@
+fastapi[all]
+sqlalchemy
+langchain
+langchain_openai
+faiss-cpu
+zhipuai
+requests
+scikit-learn
+langchain_community
+openai
+pywin32
+pymupdf
+zhipuai
